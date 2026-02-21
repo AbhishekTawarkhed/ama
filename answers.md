@@ -1,4 +1,4 @@
-### – **What is Dictionary (dict)**
+### **What is Dictionary (dict)**
 - A `dict` in Python stores data as **key-value pairs**.
 - Example: `{"name": "Abhishek", "age": 24}`.
 - Keys must be unique; values can be anything.
